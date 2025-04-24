@@ -3,6 +3,6 @@ Proxmox LXC mit Docker + Weboberfläche Portainer
 
 
 Aufruf im LXC:
-wget https://raw.githubusercontent.com/RPiList/Videolinks/refs/heads/main/Videos/LXC-Docker-2025-AiO/setup-AiO.sh && \
-chmod +x setup-AiO.sh && \
-./setup-AiO.sh
+wget https://github.com/bertizwo/portainer-LXC/portainer-LXC-2025-04-24.sh && \
+chmod +x portainer-LXC-2025-04-24.sh && \
+./portainer-LXC-2025-04-24.sh
